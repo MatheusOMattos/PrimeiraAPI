@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "PrimeiraApi.Controllers.WeatherForecastController",
+    "Method": "GetJsonContent",
+    "RelativePath": "WeatherForecast/json-content",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
